@@ -57,8 +57,11 @@ The program then determines the winner.
 ---
 
 ## 📝 Example Gameplay
-Enter 0 for Paper ,1 for Rock ,2 for Scissor
-0
-You Win
-Computer Choice: 2
-Computer Choice: Scissors
+Enter 0 for Paper ,
+1 for Rock ,
+2 for Scissor
+
+
+##You Win
+-Computer Choice: 2
+-Computer Choice: Scissors
